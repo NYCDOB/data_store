@@ -24930,6 +24930,16 @@
 	"Longitude": -73.88922119140625
  },
  {
+	"BIN Name": "2011670",
+	"Block": "03054",
+	"Lot": "00034",
+	"Borough Name": "Bronx",
+	"Community District": "206",
+	"Address": "2365 HOFFMAN STREET",
+	"Latitude": 40.85540008544922,
+	"Longitude": -73.88932800292969
+ },
+ {
 	"BIN Name": "2011671",
 	"Block": "03054",
 	"Lot": "00035",
@@ -26238,6 +26248,16 @@
 	"Address": "114 EAST 198 STREET",
 	"Latitude": 40.8702507019043,
 	"Longitude": -73.89158630371094
+ },
+ {
+	"BIN Name": "2017486",
+	"Block": "03317",
+	"Lot": "00023",
+	"Borough Name": "Bronx",
+	"Community District": "207",
+	"Address": "2710 JEROME AVENUE",
+	"Latitude": 40.868560791015625,
+	"Longitude": -73.89608764648438
  },
  {
 	"BIN Name": "2017590",
@@ -40010,6 +40030,16 @@
 	"Longitude": -73.8895263671875
  },
  {
+	"BIN Name": "2124371",
+	"Block": "03266",
+	"Lot": "00013",
+	"Borough Name": "Bronx",
+	"Community District": "208",
+	"Address": "171 WEST  230 STREET",
+	"Latitude": 40.877410888671875,
+	"Longitude": -73.90492248535156
+ },
+ {
 	"BIN Name": "2124372",
 	"Block": "05288",
 	"Lot": "00001",
@@ -42512,7 +42542,7 @@
  {
 	"BIN Name": "2129026",
 	"Block": "03005",
-	"Lot": "00065",
+	"Lot": "00000",
 	"Borough Name": "Bronx",
 	"Community District": "206",
 	"Address": "1932 BRYANT AVENUE",
@@ -44270,6 +44300,16 @@
 	"Longitude": -73.88627624511719
  },
  {
+	"BIN Name": "2129599",
+	"Block": "02514",
+	"Lot": "00011",
+	"Borough Name": "Bronx",
+	"Community District": "204",
+	"Address": "1084 OGDEN AVENUE",
+	"Latitude": 40.83515930175781,
+	"Longitude": -73.92781829833984
+ },
+ {
 	"BIN Name": "2130343",
 	"Block": "04563",
 	"Lot": "00023",
@@ -44788,6 +44828,16 @@
 	"Address": "903 EAGLE AVENUE",
 	"Latitude": 40.822669982910156,
 	"Longitude": -73.9085693359375
+ },
+ {
+	"BIN Name": "2130439",
+	"Block": "02404",
+	"Lot": "00001",
+	"Borough Name": "Bronx",
+	"Community District": "201",
+	"Address": "784 COURTLANDT AVENUE",
+	"Latitude": 40.82221984863281,
+	"Longitude": -73.9166030883789
  },
  {
 	"BIN Name": "2130442",
@@ -45548,6 +45598,16 @@
 	"Address": "6327 BROADWAY",
 	"Latitude": 40.89944076538086,
 	"Longitude": -73.89794158935547
+ },
+ {
+	"BIN Name": "2130559",
+	"Block": "03183",
+	"Lot": "00026",
+	"Borough Name": "Bronx",
+	"Community District": "205",
+	"Address": "2347 MORRIS AVENUE",
+	"Latitude": 40.85956954956055,
+	"Longitude": -73.90133666992188
  },
  {
 	"BIN Name": "2800309",
@@ -46320,16 +46380,6 @@
 	"Longitude": -73.90786743164062
  },
  {
-	"BIN Name": "2812269",
-	"Block": "03183",
-	"Lot": "00048",
-	"Borough Name": "Bronx",
-	"Community District": "205",
-	"Address": "2347 MORRIS AVENUE",
-	"Latitude": 40.85956954956055,
-	"Longitude": -73.90133666992188
- },
- {
 	"BIN Name": "2812832",
 	"Block": "03228",
 	"Lot": "00032",
@@ -46898,16 +46948,6 @@
 	"Address": "2716 WILLIAMSBRIDGE ROAD",
 	"Latitude": 40.86587905883789,
 	"Longitude": -73.85994720458984
- },
- {
-	"BIN Name": "2820378",
-	"Block": "02514",
-	"Lot": "00011",
-	"Borough Name": "Bronx",
-	"Community District": "204",
-	"Address": "1084 OGDEN AVENUE",
-	"Latitude": 40.83515930175781,
-	"Longitude": -73.92781829833984
  },
  {
 	"BIN Name": "2820472",
@@ -65160,16 +65200,6 @@
 	"Longitude": -73.95694732666016
  },
  {
-	"BIN Name": "3064170",
-	"Block": "02523",
-	"Lot": "00001",
-	"Borough Name": "Brooklyn",
-	"Community District": "301",
-	"Address": "996 MANHATTAN AVENUE",
-	"Latitude": 40.73318099975586,
-	"Longitude": -73.95442199707031
- },
- {
 	"BIN Name": "3064210",
 	"Block": "02523",
 	"Lot": "00055",
@@ -66542,7 +66572,7 @@
  {
 	"BIN Name": "3068515",
 	"Block": "02751",
-	"Lot": "00050",
+	"Lot": "00000",
 	"Borough Name": "Brooklyn",
 	"Community District": "301",
 	"Address": "11 CONSELYEA STREET",
@@ -69862,7 +69892,7 @@
  {
 	"BIN Name": "3080036",
 	"Block": "03441",
-	"Lot": "00051",
+	"Lot": "00000",
 	"Borough Name": "Brooklyn",
 	"Community District": "304",
 	"Address": "193 MOFFAT STREET",
@@ -73798,16 +73828,6 @@
 	"Address": "1270 NEW YORK AVENUE",
 	"Latitude": 40.64194107055664,
 	"Longitude": -73.94602966308594
- },
- {
-	"BIN Name": "3111378",
-	"Block": "04949",
-	"Lot": "00041",
-	"Borough Name": "Brooklyn",
-	"Community District": "317",
-	"Address": "1296 NEW YORK AVENUE",
-	"Latitude": 40.64139938354492,
-	"Longitude": -73.94597625732422
  },
  {
 	"BIN Name": "3112078",
@@ -96322,7 +96342,7 @@
  {
 	"BIN Name": "3246383",
 	"Block": "08745",
-	"Lot": "00077",
+	"Lot": "00078",
 	"Borough Name": "Brooklyn",
 	"Community District": "315",
 	"Address": "40 GIRARD STREET",
@@ -102602,7 +102622,7 @@
  {
 	"BIN Name": "3338425",
 	"Block": "03096",
-	"Lot": "00019",
+	"Lot": "00000",
 	"Borough Name": "Brooklyn",
 	"Community District": "301",
 	"Address": "94 SEIGEL STREET",
@@ -112682,7 +112702,7 @@
  {
 	"BIN Name": "3418382",
 	"Block": "07023",
-	"Lot": "00045",
+	"Lot": "00000",
 	"Borough Name": "Brooklyn",
 	"Community District": "313",
 	"Address": "2885 WEST   15 STREET",
@@ -113490,6 +113510,16 @@
 	"Longitude": -73.95172882080078
  },
  {
+	"BIN Name": "3421695",
+	"Block": "02272",
+	"Lot": "00000",
+	"Borough Name": "Brooklyn",
+	"Community District": "301",
+	"Address": "7 WHIPPLE STREET",
+	"Latitude": 40.700538635253906,
+	"Longitude": -73.94632720947266
+ },
+ {
 	"BIN Name": "3421702",
 	"Block": "05379",
 	"Lot": "00004",
@@ -114040,6 +114070,16 @@
 	"Longitude": -73.98680877685547
  },
  {
+	"BIN Name": "3422275",
+	"Block": "01136",
+	"Lot": "00015",
+	"Borough Name": "Brooklyn",
+	"Community District": "308",
+	"Address": "500 DEAN STREET",
+	"Latitude": 40.68088150024414,
+	"Longitude": -73.97319030761719
+ },
+ {
 	"BIN Name": "3422279",
 	"Block": "03234",
 	"Lot": "00045",
@@ -114072,7 +114112,7 @@
  {
 	"BIN Name": "3422361",
 	"Block": "02272",
-	"Lot": "00003",
+	"Lot": "00000",
 	"Borough Name": "Brooklyn",
 	"Community District": "301",
 	"Address": "16 BARTLETT STREET",
@@ -115905,7 +115945,7 @@
 	"Lot": "00001",
 	"Borough Name": "Brooklyn",
 	"Community District": "312",
-	"Address": "5515 8 AVENUE",
+	"Address": "5521 8 AVENUE",
 	"Latitude": 40.637760162353516,
 	"Longitude": -74.00675201416016
  },
@@ -117768,6 +117808,16 @@
 	"Address": "1406 OCEAN PARKWAY",
 	"Latitude": 40.614288330078125,
 	"Longitude": -73.96920013427734
+ },
+ {
+	"BIN Name": "3425959",
+	"Block": "05185",
+	"Lot": "00038",
+	"Borough Name": "Brooklyn",
+	"Community District": "314",
+	"Address": "464 EAST   22 STREET",
+	"Latitude": 40.640541076660156,
+	"Longitude": -73.95745086669922
  },
  {
 	"BIN Name": "3425961",
@@ -123870,6 +123920,36 @@
 	"Longitude": -73.95818328857422
  },
  {
+	"BIN Name": "3428916",
+	"Block": "02742",
+	"Lot": "00009",
+	"Borough Name": "Brooklyn",
+	"Community District": "301",
+	"Address": "280 MEEKER AVENUE",
+	"Latitude": 40.71670150756836,
+	"Longitude": -73.9490737915039
+ },
+ {
+	"BIN Name": "3428918",
+	"Block": "04949",
+	"Lot": "00041",
+	"Borough Name": "Brooklyn",
+	"Community District": "317",
+	"Address": "1296 NEW YORK AVENUE",
+	"Latitude": 40.64139938354492,
+	"Longitude": -73.94597625732422
+ },
+ {
+	"BIN Name": "3428919",
+	"Block": "02523",
+	"Lot": "00001",
+	"Borough Name": "Brooklyn",
+	"Community District": "301",
+	"Address": "996 MANHATTAN AVENUE",
+	"Latitude": 40.73318099975586,
+	"Longitude": -73.95442199707031
+ },
+ {
 	"BIN Name": "3800156",
 	"Block": "00466",
 	"Lot": "00017",
@@ -124378,16 +124458,6 @@
 	"Address": "2164 DEAN STREET",
 	"Latitude": 40.674781799316406,
 	"Longitude": -73.91593933105469
- },
- {
-	"BIN Name": "3810719",
-	"Block": "01136",
-	"Lot": "00015",
-	"Borough Name": "Brooklyn",
-	"Community District": "308",
-	"Address": "500 DEAN STREET",
-	"Latitude": 40.68088150024414,
-	"Longitude": -73.97319030761719
  },
  {
 	"BIN Name": "3810849",
@@ -124938,16 +125008,6 @@
 	"Address": "53 MAC DOUGAL STREET",
 	"Latitude": 40.67945861816406,
 	"Longitude": -73.92012023925781
- },
- {
-	"BIN Name": "3821086",
-	"Block": "02742",
-	"Lot": "00009",
-	"Borough Name": "Brooklyn",
-	"Community District": "301",
-	"Address": "280 MEEKER AVENUE",
-	"Latitude": 40.71670150756836,
-	"Longitude": -73.9490737915039
  },
  {
 	"BIN Name": "3821092",
@@ -125788,16 +125848,6 @@
 	"Address": "432 WYONA STREET",
 	"Latitude": 40.6679801940918,
 	"Longitude": -73.8922119140625
- },
- {
-	"BIN Name": "3832866",
-	"Block": "02272",
-	"Lot": "00045",
-	"Borough Name": "Brooklyn",
-	"Community District": "301",
-	"Address": "7 WHIPPLE STREET",
-	"Latitude": 40.700538635253906,
-	"Longitude": -73.94632720947266
  },
  {
 	"BIN Name": "3833490",
@@ -130312,7 +130362,7 @@
  {
 	"BIN Name": "4004559",
 	"Block": "00375",
-	"Lot": "00024",
+	"Lot": "00000",
 	"Borough Name": "Queens",
 	"Community District": "401",
 	"Address": "37-12 34 STREET",
@@ -135020,6 +135070,16 @@
 	"Longitude": -73.90381622314453
  },
  {
+	"BIN Name": "4026076",
+	"Block": "01159",
+	"Lot": "00016",
+	"Borough Name": "Queens",
+	"Community District": "401",
+	"Address": "32-14 58 STREET",
+	"Latitude": 40.755279541015625,
+	"Longitude": -73.90355682373047
+ },
+ {
 	"BIN Name": "4026087",
 	"Block": "01159",
 	"Lot": "00046",
@@ -135988,6 +136048,16 @@
 	"Address": "40-22 61 STREET",
 	"Latitude": 40.74422073364258,
 	"Longitude": -73.90377044677734
+ },
+ {
+	"BIN Name": "4031590",
+	"Block": "01340",
+	"Lot": "00009",
+	"Borough Name": "Queens",
+	"Community District": "402",
+	"Address": "43-15 63 STREET",
+	"Latitude": 40.742000579833984,
+	"Longitude": -73.90196228027344
  },
  {
 	"BIN Name": "4031593",
@@ -138298,6 +138368,16 @@
 	"Address": "37-56 103 STREET",
 	"Latitude": 40.75178909301758,
 	"Longitude": -73.86398315429688
+ },
+ {
+	"BIN Name": "4044235",
+	"Block": "01768",
+	"Lot": "00040",
+	"Borough Name": "Queens",
+	"Community District": "403",
+	"Address": "37-60 103 STREET",
+	"Latitude": 40.75164031982422,
+	"Longitude": -73.86389923095703
  },
  {
 	"BIN Name": "4044313",
@@ -149390,16 +149470,6 @@
 	"Longitude": -73.81952667236328
  },
  {
-	"BIN Name": "4116506",
-	"Block": "05149",
-	"Lot": "00031",
-	"Borough Name": "Queens",
-	"Community District": "407",
-	"Address": "137-68 JUNIPER AVENUE",
-	"Latitude": 40.74985885620117,
-	"Longitude": -73.8191909790039
- },
- {
 	"BIN Name": "4116511",
 	"Block": "05149",
 	"Lot": "00042",
@@ -158878,16 +158948,6 @@
 	"Address": "64-07 229 STREET",
 	"Latitude": 40.74906921386719,
 	"Longitude": -73.74822998046875
- },
- {
-	"BIN Name": "4163421",
-	"Block": "07665",
-	"Lot": "00030",
-	"Borough Name": "Queens",
-	"Community District": "411",
-	"Address": "64-50 231 STREET",
-	"Latitude": 40.74837112426758,
-	"Longitude": -73.74651336669922
  },
  {
 	"BIN Name": "4163477",
@@ -189310,16 +189370,6 @@
 	"Longitude": -73.92073059082031
  },
  {
-	"BIN Name": "4467110",
-	"Block": "16350",
-	"Lot": "00400",
-	"Borough Name": "Queens",
-	"Community District": "414",
-	"Address": "17 UTICA WALK",
-	"Latitude": 40.556880950927734,
-	"Longitude": -73.92073059082031
- },
- {
 	"BIN Name": "4467126",
 	"Block": "16350",
 	"Lot": "00400",
@@ -189798,6 +189848,16 @@
 	"Address": "14-61 150 PLACE",
 	"Latitude": 40.78746032714844,
 	"Longitude": -73.81159210205078
+ },
+ {
+	"BIN Name": "4523780",
+	"Block": "06255",
+	"Lot": "00034",
+	"Borough Name": "Queens",
+	"Community District": "411",
+	"Address": "218-11 40 AVENUE",
+	"Latitude": 40.76560974121094,
+	"Longitude": -73.76458740234375
  },
  {
 	"BIN Name": "4526602",
@@ -197760,6 +197820,16 @@
 	"Longitude": -73.87931060791016
  },
  {
+	"BIN Name": "4596380",
+	"Block": "15905",
+	"Lot": "00296",
+	"Borough Name": "Queens",
+	"Community District": "",
+	"Address": "6504 BEACH FRONT ROAD",
+	"Latitude": 40.58811950683594,
+	"Longitude": -73.79400634765625
+ },
+ {
 	"BIN Name": "4596381",
 	"Block": "15905",
 	"Lot": "00297",
@@ -198758,6 +198828,16 @@
 	"Address": "150-32 ROOSEVELT AVENUE",
 	"Latitude": 40.763771057128906,
 	"Longitude": -73.81317138671875
+ },
+ {
+	"BIN Name": "4605208",
+	"Block": "01353",
+	"Lot": "00026",
+	"Borough Name": "Queens",
+	"Community District": "404",
+	"Address": "73-02 WOODSIDE AVENUE",
+	"Latitude": 40.74300003051758,
+	"Longitude": -73.8914794921875
  },
  {
 	"BIN Name": "4605306",
@@ -206760,6 +206840,26 @@
 	"Longitude": -73.85884857177734
  },
  {
+	"BIN Name": "4620606",
+	"Block": "05149",
+	"Lot": "00031",
+	"Borough Name": "Queens",
+	"Community District": "407",
+	"Address": "137-68 JUNIPER AVENUE",
+	"Latitude": 40.74985885620117,
+	"Longitude": -73.8191909790039
+ },
+ {
+	"BIN Name": "4620609",
+	"Block": "07665",
+	"Lot": "00030",
+	"Borough Name": "Queens",
+	"Community District": "411",
+	"Address": "64-50 231 STREET",
+	"Latitude": 40.74837112426758,
+	"Longitude": -73.74651336669922
+ },
+ {
 	"BIN Name": "4622915",
 	"Block": "12381",
 	"Lot": "00090",
@@ -210808,6 +210908,16 @@
 	"Address": "43-51 GAR ROBINSON STREET",
 	"Latitude": 40.75407028198242,
 	"Longitude": -73.81951141357422
+ },
+ {
+	"BIN Name": "4623531",
+	"Block": "16350",
+	"Lot": "00400",
+	"Borough Name": "Queens",
+	"Community District": "414",
+	"Address": "17 UTICA WALK",
+	"Latitude": 40.556880950927734,
+	"Longitude": -73.92073059082031
  },
  {
 	"BIN Name": "4800517",
@@ -227900,16 +228010,6 @@
 	"Longitude": -74.19286346435547
  },
  {
-	"BIN Name": "5083406",
-	"Block": "06817",
-	"Lot": "00021",
-	"Borough Name": "Staten Island",
-	"Community District": "503",
-	"Address": "33 WEST TERRACE",
-	"Latitude": 40.53356170654297,
-	"Longitude": -74.19397735595703
- },
- {
 	"BIN Name": "5083437",
 	"Block": "06820",
 	"Lot": "00038",
@@ -228308,16 +228408,6 @@
 	"Address": "6767 AMBOY ROAD",
 	"Latitude": 40.519718170166016,
 	"Longitude": -74.22705841064453
- },
- {
-	"BIN Name": "5087128",
-	"Block": "07566",
-	"Lot": "00150",
-	"Borough Name": "Staten Island",
-	"Community District": "503",
-	"Address": "145 WEINER STREET",
-	"Latitude": 40.52373123168945,
-	"Longitude": -74.22937774658203
  },
  {
 	"BIN Name": "5087149",
@@ -238570,6 +238660,16 @@
 	"Longitude": -74.16040802001953
  },
  {
+	"BIN Name": "5170248",
+	"Block": "00801",
+	"Lot": "00233",
+	"Borough Name": "Staten Island",
+	"Community District": "502",
+	"Address": "494 MELBA STREET",
+	"Latitude": 40.600101470947266,
+	"Longitude": -74.12413024902344
+ },
+ {
 	"BIN Name": "5170276",
 	"Block": "01155",
 	"Lot": "00009",
@@ -240618,6 +240718,16 @@
 	"Address": "385 B ALTER AVENUE",
 	"Latitude": 40.58803176879883,
 	"Longitude": -74.08912658691406
+ },
+ {
+	"BIN Name": "5171394",
+	"Block": "08046",
+	"Lot": "00194",
+	"Borough Name": "Staten Island",
+	"Community District": "503",
+	"Address": "236 YETMAN AVENUE",
+	"Latitude": 40.510379791259766,
+	"Longitude": -74.24474334716797
  },
  {
 	"BIN Name": "5171395",
@@ -245378,6 +245488,26 @@
 	"Address": "181 FREEBORN STREET",
 	"Latitude": 40.575069427490234,
 	"Longitude": -74.09236907958984
+ },
+ {
+	"BIN Name": "5174977",
+	"Block": "06817",
+	"Lot": "00021",
+	"Borough Name": "Staten Island",
+	"Community District": "503",
+	"Address": "33 WEST TERRACE",
+	"Latitude": 40.53356170654297,
+	"Longitude": -74.19397735595703
+ },
+ {
+	"BIN Name": "5174978",
+	"Block": "07566",
+	"Lot": "00150",
+	"Borough Name": "Staten Island",
+	"Community District": "503",
+	"Address": "145 WEINER STREET",
+	"Latitude": 40.52373123168945,
+	"Longitude": -74.22937774658203
  },
  {
 	"BIN Name": "5516445",
